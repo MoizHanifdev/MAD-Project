@@ -1,5 +1,5 @@
 # MAD-Project
-<p>In this project we will create a blogging app, with complete functionality and also hanig an admin panel.</p>
+<p>In this project we will create a blogging app, with complete functionality and also havig an admin panel with all core features.</p>
 </hr>
 
 # Authors
