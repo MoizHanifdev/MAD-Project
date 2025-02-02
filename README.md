@@ -4,6 +4,12 @@
 
 # Authors
 ### Abdul Moiz Hanif
-GitHub: [MoizHanifdev](https://github.com/MoizHanifdev)
+GitHub: [Moiz Hainf](https://github.com/MoizHanifdev)
+</hr>
+
 ### Talha Ali
+GitHub: [Talha Ali](https://github.com/talhaalipk)
+</hr>
+
 ### Salman Akhtar
+GitHub: [Salman Akhtar](https://github.com/SalmanAkhtar)
