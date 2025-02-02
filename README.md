@@ -4,5 +4,6 @@
 
 # Authors
 ### Abdul Moiz Hanif
+GitHub: [MoizHanifdev](https://github.com/MoizHanifdev)
 ### Talha Ali
 ### Salman Akhtar
